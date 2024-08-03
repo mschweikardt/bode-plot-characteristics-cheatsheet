@@ -15,7 +15,9 @@ Several points ($\mathrm{A}$ - $\mathrm{F}$) are annotated in the plot, each
 point has a $x$ value (corresponding to a frequency) and a $y$ value 
 (corresponding either to the magnitude in dB or phase in °).
 
+<p align="center">
  <img src="./figs/plot.svg" width="600">
+</p>
 
 By evaluating the magnitude at $f \rightarrow 0$ (point $\mathrm{A}$), the
 DC gain (corresponding to $y_{\mathrm{A}}$) is extracted.
