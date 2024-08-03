@@ -51,7 +51,7 @@ The x coordinate $x_{\mathrm{C}}$ of this point is the Unity-Gain Bandwidth
 $\mathrm{UGBW}$ (620 MHz in this example).
 
 > [!IMPORTANT]
-> $\mathrm{UGBW}$ and $\mathrm{GBP}$ is not the same!
+> $\mathrm{UGBW}$ and $\mathrm{GBP}$ are not the same!
 
 Next, we obtain the point $\mathrm{D}$ in the phase plot by setting 
 $x_{\mathrm{D}} = x_{\mathrm{C}}$, i.e. evaluate the phase at the 
