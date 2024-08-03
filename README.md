@@ -16,7 +16,7 @@ point has a $x$ value (corresponding to a frequency) and a $y$ value
 (corresponding either to the magnitude in dB or phase in °).
 
 <p align="center">
- <img src="./figs/plot.svg" width="600">
+ <img src="./figs/plot.svg" width="700">
 </p>
 
 By evaluating the magnitude at $f \rightarrow 0$ (point $\mathrm{A}$), the
