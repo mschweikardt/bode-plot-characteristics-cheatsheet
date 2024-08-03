@@ -1,4 +1,4 @@
-# bode-plot-characteristics-cheatsheet-fuu
+# bode-plot-characteristics-cheatsheet
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This cheat sheet summarizes how to extract features such as 
