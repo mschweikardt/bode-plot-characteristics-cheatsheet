@@ -1,4 +1,4 @@
-# bode-plot-characteristics-cheatsheet-fuu
+# bode-plot-characteristics-cheatsheet
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This cheat sheet summarizes how to extract features such as 
@@ -15,7 +15,9 @@ Several points ($\mathrm{A}$ - $\mathrm{F}$) are annotated in the plot, each
 point has a $x$ value (corresponding to a frequency) and a $y$ value 
 (corresponding either to the magnitude in dB or phase in °).
 
- <img src="./figs/plot.svg" width="600">
+<p align="center">
+ <img src="./figs/plot.svg" width="700">
+</p>
 
 By evaluating the magnitude at $f \rightarrow 0$ (point $\mathrm{A}$), the
 DC gain (corresponding to $y_{\mathrm{A}}$) is extracted.
@@ -49,7 +51,7 @@ The x coordinate $x_{\mathrm{C}}$ of this point is the Unity-Gain Bandwidth
 $\mathrm{UGBW}$ (620 MHz in this example).
 
 > [!IMPORTANT]
-> $\mathrm{UGBW}$ and $\mathrm{GBP}$ is not the same!
+> $\mathrm{UGBW}$ and $\mathrm{GBP}$ are not the same!
 
 Next, we obtain the point $\mathrm{D}$ in the phase plot by setting 
 $x_{\mathrm{D}} = x_{\mathrm{C}}$, i.e. evaluate the phase at the 
